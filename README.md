@@ -3,21 +3,27 @@ A simple Command-Line ATM simulation built using Python.
 This project demonstrates basic banking operations like checking balance, depositing money, and withdrawing money.
 
 ###🚀 Features:
-Check account balance
-Deposit money
-Withdraw money
-Handles insufficient balance
-Menu-driven CLI program
+~Check account balance
+~Deposit money
+~Withdraw money
+~Handles insufficient balance
+~Menu-driven CLI program
 
 ###🛠 Technologies Used:
-Python 3
+~Python 3
 
 ##🧠 Concepts Used:
-Variables
-Loops
-Conditional statements
-User input
-Basic banking logic
+~Variables
+~Loops
+~Conditional statements
+~User input
+~Basic banking logic
+
+##📁Project structure:
+ATM mini system/
+|
+|_____ATM mini system.py
+|_____README.md
 
 ##▶️ How to Run:
 Make sure Python is installed
@@ -46,10 +52,10 @@ Choice: 4
 Thank you for using ATM!
 
 ###🔮 Future Improvements:
-Add PIN authentication
-Store data using file handling or database
-Add transaction history
-Convert into GUI using Tkinter
+~Add PIN authentication
+!Store data using file handling or database
+~Add transaction history
+~Convert into GUI using Tkinter
 
 #🙋‍♀️ Author:
 Nikita Jadhav...
